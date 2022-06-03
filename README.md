@@ -34,5 +34,5 @@ Instructions for deploying upgradable smart contracts using Open Zeppelin tools.
 
 For additional help see these tutorials:
 
-- (Open Zeppelin Upgradeable Contracts: YouTube video)[https://www.youtube.com/watch?v=JgSj7IiE4jA]
-- (OpenZeppelin Upgrades: Step by Step Tutorial for Hardhat)[https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580]
+- [Open Zeppelin Upgradeable Contracts (YouTube video)](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+- [OpenZeppelin Upgrades: Step by Step Tutorial for Hardhat](https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580)
