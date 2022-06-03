@@ -1,3 +1,12 @@
+.idea
+flattened
+venv
+.openzeppelin
+
+#Hardhat files
+cache
+artifacts
+
 # Logs
 logs
 *.log
