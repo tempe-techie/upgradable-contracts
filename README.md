@@ -1,6 +1,6 @@
-# upgradable-contracts
+# Upgradable contracts with Open Zeppelin
 
-
+Instructions for deploying upgradable smart contracts using Open Zeppelin tools.
 
 ## Initial deployment
 

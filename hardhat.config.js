@@ -1,6 +1,6 @@
 require("@nomiclabs/hardhat-ethers");
-require('@openzeppelin/hardhat-upgrades');
 require("@nomiclabs/hardhat-etherscan");
+require('@openzeppelin/hardhat-upgrades');
 require('dotenv').config();
 
 /**

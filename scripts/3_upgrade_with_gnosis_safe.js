@@ -1,7 +1,7 @@
 // npx hardhat run scripts/3_upgrade_with_gnosis_safe.js --network polygonMumbai
 
 const contractName = "CounterV3";
-const proxyAddress = "0x96b56f8df1068D823E3f1B9C9d9207Aa5C49CC6d";
+const proxyAddress = "";
 
 async function main() {
   const [deployer] = await ethers.getSigners();
